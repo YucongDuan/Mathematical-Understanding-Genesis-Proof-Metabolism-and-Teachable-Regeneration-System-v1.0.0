@@ -1,8 +1,10 @@
 # DIKWP-MESH8.1 MU81
 
+Created by Yucong Duan (段玉聪).
+
 ## Mathematical Understanding Genesis, Proof Metabolism, and Teachable Regeneration System v1.0.0
 
-MU81 addresses proof abundance by treating understanding as **observable bidirectional regenerative competence**, not as stylistic smoothness, a confidence score, or a synonym for kernel acceptance.
+MU81 addresses proof abundance by treating understanding as observable bidirectional regenerative competence, not as stylistic smoothness, a confidence score, or a synonym for kernel acceptance.
 
 The native core contains only D, I, K, W, P records and explicit routes. Post-semantic aliases describe provenance, definition load, decisive bridges, friction maps, perturbation tests, multi-resolution talks, expert questions, and canonicalization outputs.
 
